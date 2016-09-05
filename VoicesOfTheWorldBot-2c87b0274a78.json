@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voicesoftheworldbot-142514",
+  "private_key_id": "2c87b0274a78754a5881103aa135088132bd4ef2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQC+wDqAeRTtbcpg\nVighiPu39hZDpVY6HQVThCNccG5RB5R6lboQ2Op81bAohlzKboQqhRBLNqB2lAcv\nma7P1SZ9FiKbplaoZ1KTfVSoP2mrPLQHvnP+fQeiwKocYR48KNU5xa72UuBp5qsS\nDeg0eSW3hBM9ZdV9TyiHDWVbWWVONT+4gqlyb73oIyhiEl04m+m7+Esph2qb/Lnq\nXWjzkGUz9s16Jnky3nRRR29UGkSYS1YoyrzMJvIco19YaW4zUJjaLu1D8JDneBtj\nE2h9u+ojdEDDb03Ol+qkgjoo5gix5CEqJQiE5cigmm+frcDf8wtzAvbhjb2bZLj3\nmD14HZP3AgMBAAECggEBALUJzHxSbsJJCWIVY1EwqXcXYFojeYr+MCfrqYP6UTkm\ncI1Hvahvt11zkhVkMH0QFvAkCirYVcM1CvzqZzdpnXXqpD4FyQlbxsukj8x/ItMa\nceNHpt9J2w1kvg7hPcjrGDQUotG2Jrdb7dDc0h27PUjHWVtUYyLjFhvXYvMoDTYD\nPTrxzvvwj8MwtP+o1FIgN1zZj2EE+/0Nj6zcMIw2pcwzrgZ+TSI93apM1Tl6zFu/\nUv61p6j/MZkd78oI7G/FpUxDxt36RIR4FClyloxq/460blD6/KPR6nbmh9SsW7xb\nC+5VzbhUaSwRmO9zaf3exgWqH+hcIKvcg2Docyht0MECgYEA+ZoHKRw0B7Ux6hG/\n3Lz/p50ieBFQJofGtf5BqLuFjG4o1dF4OzHWe9e1yvzy+Nw+SUteUMAHEK4EXNuB\nGYZLu3ALuwzBd8HoTCMfy/fFzftSkbdQcsBhKXMRJEksROawcwzr9Xi2cr2+m/AK\n/a5dc3OS4fIfq8VVQ6vTs63c3iUCgYEAw6QAYgVvQjfQQDBkmEa2ZTtP/uiWPKmG\nNCYkH+7qvFAWfoxH08hJhtiulf3bpAPp0xZ7T7QeMNDGjNfhF+Q6N5dXLGnRzvg0\nJA+fDq6V8xdKOl47k7Wug4TwJvt3DhJtCT9tDEXDh4ljIeGRE0O5NCXUOEmhdoYp\nE+lNl7bSiOsCgYEA0cSXG/+t4oRvTI5aNoNIQG+Y1luGhrs5Tx49xDbEx/6Upw4C\nA42g+jeReuUWtfszBZony6l2xpfY5sk7OF5bK03BLhRMS/9U4Rfr0xmKzc/X1sq+\n+5Gelp0z3ND6OXW++RH1BDnM66V3mcolEooF089ftDAuWcfgHp07sBgANVkCgYEA\nlvPI09kLopU8Gvr78z7EZ1GfhLjjiwTmpwAy6WzIM+q7oIMOvMsSaHhyJQtN2Lyo\nQxZaqQH6NYIxYOUFKhEQFmqweXVgzIhYeuaOvJ5a1slGncitwWfyskn1nq5yiyoO\ndY85zblaiA6qra7E6I9drG3v1EqDydb0hQeDtib7RWcCgYEAjTjwR75uvDCleufy\n9Slq66vEFQkLQG9o+cO1GQPz38owhLHo3Jc+k3L3aDLoIPZNcDi6GeuiRFCpL6oX\ni55OD8IYuZjXLMf6F6sRtnG7E79O0RDxKOGgRjxWAxtAWJ8+q2ry/85Fv4CXQmJE\nJUJv65wy4VjUyzg6OuEnqNcnPjE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voicesoftheworldbot-142514@appspot.gserviceaccount.com",
+  "client_id": "112390581024885672009",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voicesoftheworldbot-142514%40appspot.gserviceaccount.com"
+}
