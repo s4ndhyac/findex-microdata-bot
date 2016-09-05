@@ -14,9 +14,15 @@ gc = gspread.authorize(credentials)
 
 wks = gc.open("voices-of-the-world").sheet1
 
-val = wks.acell('A1').value
+from random import randint
+row = randint(2,25)
 
-print val
+country = wks.cell(row,1).value
+genderkey = {'1':'male','2':'female'}
+gender = wks.cell(row,7).value
+age = wks.cell(row,8).value
+
+print "I am from the " + country + ". I am a " + age + "yr. old " + genderkey[gender] 
 
 tweetbot = MarkovBot()
 
@@ -24,7 +30,7 @@ dirname = os.path.dirname(os.path.abspath(__file__))
 book = os.path.join(dirname, u'ebook.txt')
 tweetbot.read(book)
 
-my_first_text = tweetbot.generate_text(5, seedword=[u'economy', u'money'])
+my_first_text = tweetbot.generate_text(25, seedword=[u'economy', u'money'])
 print(u'\ntweetbot says: "%s"' % (my_first_text))
 
 # Consumer Key (API Key)
